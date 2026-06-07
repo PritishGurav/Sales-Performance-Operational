@@ -28,23 +28,25 @@ Building this was a rewarding challenge in **Power BI**. The highlight of this p
 
 ---
 
-## 📸 Dashboard Preview
-*(Add your screenshots here)*
-* ![Manager Insights](Screenshot_1.png)
-* ![Operational Risks](Screenshot_2.png)
+## 📸 Dashboard Gallery
+
+### Executive & Operational View
+| Executive View | Operational Risk View | Manager Insights |
+| :--- | :--- | :--- |
+| ![Executive View](Screenshot_2026-06-04_120752.png) | ![Operational Risk](Screenshot_2026-06-04_120803.png) | ![Manager Insights](Screenshot_2026-06-04_120826.png) |
 
 ---
 
 ## 💡 How to Interact
 * **Download:** You can grab the `.pbix` file from this repo and open it in Power BI Desktop to explore the data models.
-* **Explore:** Use the snapshots above to understand the final output and the design philosophy I applied.
+* **Explore:** Use the screenshots above to understand the design philosophy and the depth of analysis applied to the dataset.
 
 ---
 
 ## 👤 Let’s Connect
 I am passionate about data storytelling and always looking for ways to improve my analytical skills. If you have any feedback or want to discuss this project, let's connect!
 
-* **[LinkedIn Profile](Your_Link_Here)**
-* **[GitHub Profile](Your_Link_Here)**
+* **[LinkedIn Profile](https://www.linkedin.com/in/gurav-pritish-3ab57b346/)**
+* **[GitHub Profile](https://github.com/PritishGurav)**
 
 *Enjoyed this project? Feel free to star this repository or reach out for a collaboration!*
